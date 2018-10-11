@@ -1,0 +1,88 @@
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.tervetuloa {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('kuvat/5.jpg');
+}
+
+.otsikko {
+    background-color: white;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.tuotteen_kuvaus {
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5em;
+    background-color: rgba(255, 255, 255, .7);
+    bottom: 0;
+    position: absolute;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+#tuote1 {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('kuvat/1.jpg');
+}
+
+#tuote2 {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('kuvat/2.jpg');
+}
+
+#tuote3 {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('kuvat/3.jpg');
+}
+
+#tuote4 {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('kuvat/4.jpg');
+}
+
+.yhteystiedot {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('kuvat/7.jpg');
+}
+
+.tiedot {
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5em;
+    background-color: rgba(255, 255, 255, .8);
+    right: 0;
+    top: 0;
+    position: absolute;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.lomake {
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('kuvat/6.jpg');
+}
